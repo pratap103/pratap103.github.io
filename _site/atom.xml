@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sidey</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-10-03T20:33:23+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>User Onboarding</title>
+   <link href="http://localhost:4000/2019/08/31/difference-between-font-formats"/>
+   <updated>2019-08-31T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2019/08/31/difference-between-font-formats</id>
+   <content type="html">&lt;p&gt;This is where the content goes&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
